@@ -1,0 +1,6 @@
+booksite/venv/
+booksite/db.sqlite3
+booksite/__pycache__/
+**/__pycache__/
+*.pyc
+.idea/
